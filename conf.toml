@@ -1,0 +1,4 @@
+[telegram]
+bot_token = "YOUR_BOT_TOKEN"
+chat_id = "-1001234567890"
+message_thread_id = "1234"

@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  webhook:
+    container_name: webhook-harbor
+    image: webhook-harbor-telegram:0.1
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./conf.toml:/app/conf.toml
+    environment:
+      - FLASK_ENV=development
