@@ -69,4 +69,5 @@ docker build -t webhook-harbor-telegram:0.1 .
 
 
 Пример оповещения:
+
 ![2024-10-24_12-00-53](https://github.com/user-attachments/assets/2817d1ca-5be2-4eaf-ab10-a21950a1ac6d)
