@@ -60,3 +60,12 @@ docker build -t webhook-harbor-telegram:0.1 .
 2. Перейдите в настройки репозитория.
 3. Настройте новый Webhook, указав URL вашего сервера, который будет принимать уведомления (например, http://your-server-ip:5000/webhook).
 4. Убедитесь, что вы выбрали необходимое событие, push.
+
+Настройка вебхук harbor:
+
+![2024-10-24_11-03-11](https://github.com/user-attachments/assets/f3f86fec-6fb7-4c09-9c97-484dd901c8d7)
+
+![2024-10-24_11-03-21](https://github.com/user-attachments/assets/56d74dee-9333-4098-a575-cad087f41ab7)
+
+Пример оповещения:
+![2024-10-24_12-00-53](https://github.com/user-attachments/assets/2817d1ca-5be2-4eaf-ab10-a21950a1ac6d)
