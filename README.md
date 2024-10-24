@@ -63,7 +63,8 @@ docker build -t webhook-harbor-telegram:0.1 .
 
 Настройка вебхук harbor:
 
-![2024-10-24_11-03-11](https://github.com/user-attachments/assets/f3f86fec-6fb7-4c09-9c97-484dd901c8d7)
+![2024-10-24_11-03-11](https://github.com/user-attachments/assets/e91857f0-3d91-4c06-a243-af141074f5f4)
+
 
 ![2024-10-24_11-03-21](https://github.com/user-attachments/assets/56d74dee-9333-4098-a575-cad087f41ab7)
 
