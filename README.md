@@ -66,8 +66,3 @@ docker build -t webhook-harbor-telegram:0.1 .
 ![2024-10-24_11-03-11](https://github.com/user-attachments/assets/e91857f0-3d91-4c06-a243-af141074f5f4)
 
 ![2024-10-24_11-03-21](https://github.com/user-attachments/assets/00f2c57d-edc8-4d4f-a429-5391a98ee916)
-
-
-Пример оповещения:
-
-![2024-10-24_12-00-53](https://github.com/user-attachments/assets/2817d1ca-5be2-4eaf-ab10-a21950a1ac6d)
