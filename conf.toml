@@ -1,4 +1,16 @@
 [telegram]
-bot_token = "YOUR_BOT_TOKEN"
-chat_id = "-1001234567890"
-message_thread_id = "1234"
+bot_token        = "YOUR_BOT_TOKEN"
+chat_id          = "-1001234567890"
+message_thread_id = "1234"      # или оставьте пустым/удалите, если не нужно
+
+[markdown]
+# Список символов, которые будем экранировать
+escape_chars = ["\\", "_", "*", "[", "]", "(", ")", "~", "`", ">", "#", "+", "-", "=", "|", "{", "}", "!"]
+
+[events]
+# Включаем/выключаем оповещения по типам событий
+PUSH_ARTIFACT        = true
+PULL_ARTIFACT        = true
+DELETE_ARTIFACT      = true
+SCANNING_STOPPED     = true
+SCANNING_COMPLETED   = true
