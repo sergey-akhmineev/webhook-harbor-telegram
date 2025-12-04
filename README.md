@@ -1,7 +1,4 @@
 # Webhook harbor-telegram
-Currently, the reaction is set up only for push events.
-
-В данный момент настроена реакция только на push
 
 ## How to Use
 
@@ -59,7 +56,7 @@ docker build -t webhook-harbor-telegram:0.1 .
 1. Зайдите в Harbor.
 2. Перейдите в настройки репозитория.
 3. Настройте новый Webhook, указав URL вашего сервера, который будет принимать уведомления (например, http://your-server-ip:5000/webhook).
-4. Убедитесь, что вы выбрали необходимое событие, push.
+4. Убедитесь, что вы выбрали необходимое событие.
 
 Настройка вебхук harbor:
 
