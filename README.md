@@ -26,7 +26,7 @@ docker build -t webhook-harbor-telegram:0.1 .
 1. Log in to Harbor.
 2. Go to the repository settings.
 3. Set up a new Webhook by specifying the URL of your server, which will receive notifications (e.g., http://your-server-ip:5000/webhook).
-4. Make sure you have selected the necessary event, which is push.
+4. Make sure you have selected the necessary event.
 
 ## Как использовать
 
